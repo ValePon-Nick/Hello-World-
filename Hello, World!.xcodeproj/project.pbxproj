@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5841218D2E4DA62D00E79EDF /* HelloWorld!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HelloWorld!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5841218D2E4DA62D00E79EDF /* Hello, World!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello, World!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		5841219F2E4DA63000E79EDF /* Exceptions for "HelloWorld!" folder in "HelloWorld!" target */ = {
+		5841219F2E4DA63000E79EDF /* Exceptions for "Hello, World!" folder in "Hello, World!" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 5841218C2E4DA62D00E79EDF /* HelloWorld! */;
+			target = 5841218C2E4DA62D00E79EDF /* Hello, World! */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5841218F2E4DA62D00E79EDF /* HelloWorld! */ = {
+		5841218F2E4DA62D00E79EDF /* Hello, World! */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				5841219F2E4DA63000E79EDF /* Exceptions for "HelloWorld!" folder in "HelloWorld!" target */,
+				5841219F2E4DA63000E79EDF /* Exceptions for "Hello, World!" folder in "Hello, World!" target */,
 			);
-			path = "HelloWorld!";
+			path = "Hello, World!";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		584121842E4DA62D00E79EDF = {
 			isa = PBXGroup;
 			children = (
-				5841218F2E4DA62D00E79EDF /* HelloWorld! */,
+				5841218F2E4DA62D00E79EDF /* Hello, World! */,
 				5841218E2E4DA62D00E79EDF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		5841218E2E4DA62D00E79EDF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5841218D2E4DA62D00E79EDF /* HelloWorld!.app */,
+				5841218D2E4DA62D00E79EDF /* Hello, World!.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5841218C2E4DA62D00E79EDF /* HelloWorld! */ = {
+		5841218C2E4DA62D00E79EDF /* Hello, World! */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 584121A02E4DA63000E79EDF /* Build configuration list for PBXNativeTarget "HelloWorld!" */;
+			buildConfigurationList = 584121A02E4DA63000E79EDF /* Build configuration list for PBXNativeTarget "Hello, World!" */;
 			buildPhases = (
 				584121892E4DA62D00E79EDF /* Sources */,
 				5841218A2E4DA62D00E79EDF /* Frameworks */,
@@ -74,13 +74,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5841218F2E4DA62D00E79EDF /* HelloWorld! */,
+				5841218F2E4DA62D00E79EDF /* Hello, World! */,
 			);
-			name = "HelloWorld!";
+			name = "Hello, World!";
 			packageProductDependencies = (
 			);
 			productName = "HelloWorld!";
-			productReference = 5841218D2E4DA62D00E79EDF /* HelloWorld!.app */;
+			productReference = 5841218D2E4DA62D00E79EDF /* Hello, World!.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 584121882E4DA62D00E79EDF /* Build configuration list for PBXProject "HelloWorld!" */;
+			buildConfigurationList = 584121882E4DA62D00E79EDF /* Build configuration list for PBXProject "Hello, World!" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5841218C2E4DA62D00E79EDF /* HelloWorld! */,
+				5841218C2E4DA62D00E79EDF /* Hello, World! */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		584121882E4DA62D00E79EDF /* Build configuration list for PBXProject "HelloWorld!" */ = {
+		584121882E4DA62D00E79EDF /* Build configuration list for PBXProject "Hello, World!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				584121A32E4DA63000E79EDF /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		584121A02E4DA63000E79EDF /* Build configuration list for PBXNativeTarget "HelloWorld!" */ = {
+		584121A02E4DA63000E79EDF /* Build configuration list for PBXNativeTarget "Hello, World!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				584121A12E4DA63000E79EDF /* Debug */,
